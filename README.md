@@ -4,7 +4,7 @@ We hope to develop radiation-resistant robots, specifically electronic tube robo
 西班牙语：Esperamos desarrollar robots resistentes a la radiación, específicamente robots de tubos electrónicos, para extraer y empaquetar de manera segura los materiales nucleares en Fukushima.
 法语：Nous espérons développer des robots résistants aux radiations, notamment des robots à tube électronique, pour extraire et emballer en toute sécurité les matières nucléaires à Fukushima.
 德语：Wir hoffen, strahlenresistente Roboter zu entwickeln, speziell elektronische Röhrenroboter, um nukleares Material sicher aus Fukushima zu extrahieren und zu verpacken.
-俄语：Мы надеемся разработать радиационно-стойких роботов, особенно роботов с электронными лампами, чтобы безопасно извлекать и упаковывать ядерные материалы в Фукусиме.
+俄语：Мы надеемся разработать радиационно-стойких роботов, особенно роботов с электронными лампами, чтобы безопасно извлекать и упаковывать ядерные материалы в Фукусиме.https://gitcode.net/SPRINGAGE/savesea/-/wikis/Wishlist
 阿拉伯语：نأمل في تطوير روبوتات مقاومة للإشعاع ، وبالتحديد روبوتات الأنابيب الإلكترونية ، لاستخراج المواد النووية وتعبئتها بأمان في فوكوشيما.
 葡萄牙语：Esperamos desenvolver robôs resistentes à radiação, especificamente robôs de tubos eletrônicos, para extrair e embalar com segurança materiais nucleares em Fukushima.
 日语（日本）：福島での核物質の安全な抽出と包装を行うために、放射線耐性のある電子管ロボットを開発することを目指しています。
